@@ -2,7 +2,7 @@
 !.mvn/wrapper/maven-wrapper.jar
 
 ### Native ###
-.out/
+out/
 
 ### STS ###
 .apt_generated
